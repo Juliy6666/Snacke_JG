@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snacke_JG", "Snacke_JG.vcxproj", "{901589FC-535C-4F76-ACCD-4B9B66B5C925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901589FC-535C-4F76-ACCD-4B9B66B5C925}.Debug|x64.ActiveCfg = Debug|x64
+		{901589FC-535C-4F76-ACCD-4B9B66B5C925}.Debug|x64.Build.0 = Debug|x64
+		{901589FC-535C-4F76-ACCD-4B9B66B5C925}.Debug|x86.ActiveCfg = Debug|Win32
+		{901589FC-535C-4F76-ACCD-4B9B66B5C925}.Debug|x86.Build.0 = Debug|Win32
+		{901589FC-535C-4F76-ACCD-4B9B66B5C925}.Release|x64.ActiveCfg = Release|x64
+		{901589FC-535C-4F76-ACCD-4B9B66B5C925}.Release|x64.Build.0 = Release|x64
+		{901589FC-535C-4F76-ACCD-4B9B66B5C925}.Release|x86.ActiveCfg = Release|Win32
+		{901589FC-535C-4F76-ACCD-4B9B66B5C925}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD76651-F77B-419A-A877-8AF62CB52572}
+	EndGlobalSection
+EndGlobal
